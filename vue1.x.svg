@@ -1,1 +1,24 @@
-<svg width="90" height="20" viewBox="0 0 90 20" xmlns="http://www.w3.org/2000/svg"><title>vue1.x</title><desc>Created with Sketch.</desc><g fill="none"><rect fill="#41B883" width="90" height="20" rx="3"/><rect fill="#676767" x="34" width="56" height="20" rx="3"/><path fill="#676767" d="M34 0h3v20h-3z"/><g font-size="12" font-family="NotoSansCJKsc-Regular, Noto Sans CJK SC" fill="#fff"><text transform="translate(7 4)"><tspan x="0" y="14">Vue</tspan></text><text transform="translate(7 4)"><tspan x="47" y="14">1.x</tspan></text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="90px" height="20px" viewBox="0 0 90 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>vue1.x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vue1.x">
+            <g id="Group">
+                <rect id="Rectangle-path" fill="#41B883" x="0" y="0" width="90" height="20" rx="3"></rect>
+                <rect id="Rectangle-path-Copy" fill="#676767" x="34" y="0" width="56" height="20" rx="3"></rect>
+                <rect id="Rectangle-path-Copy-2" fill="#676767" x="34" y="0" width="3" height="20"></rect>
+            </g>
+            <g id="Group-2" transform="translate(7, 1)" font-size="12" font-family="NotoSansCJKsc-Regular, Noto Sans CJK SC" line-spacing="12" fill="#FFFFFF" font-weight="normal">
+                <text id="Vue">
+                    <tspan x="0" y="14">Vue</tspan>
+                </text>
+                <text id="1.x">
+                    <tspan x="47" y="14">1.x</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

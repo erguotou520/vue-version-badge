@@ -6,9 +6,6 @@ Badges that can be used in your project's readme file to tell people which versi
 
 ![](https://erguotou520.github.io/vue-version-badge/vue2.x.svg)
 
-![](https://erguotou520.github.io/vue-version-badge/vue2.2.x.svg)
+![](https://erguotou520.github.io/vue-version-badge/vue2.x.x.svg)
 
 ![](https://erguotou520.github.io/vue-version-badge/vue1&2.svg)
-
-## Improvement
-- Add server to provide dynamic version badge
