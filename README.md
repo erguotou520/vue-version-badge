@@ -1,3 +1,4 @@
+Abandoned, please use https://shields.io/, for example `https://img.shields.io/badge/vue-2.x-brightgreen.svg`![](https://img.shields.io/badge/vue-2.x-brightgreen.svg)
 # Vue version badge
 Badges that can be used in your project's readme file to tell people which version of vue is used in your project.
 
